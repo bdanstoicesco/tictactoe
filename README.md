@@ -11,3 +11,8 @@ input coordinates of the X and O:
 (1 2) (2 2) (3 2)
 
 (1 1) (2 1) (3 1)'''
+
+
+# ttt game - tic tac toe game played by computer against computer
+
+second stage in the proccess to train my AI project
